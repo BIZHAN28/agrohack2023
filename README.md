@@ -1,24 +1,14 @@
 # hackaton
 
-## Project setup
 ```
-npm install
+install node.js with npm from https://nodejs.org/en/
 ```
-
-### Compiles and hot-reloads for development
 ```
-npm run serve
+Open console and write "npm install vue"
 ```
-
-### Compiles and minifies for production
 ```
-npm run build
+Open the project directory in console and write "npm run serve"
 ```
-
-### Lints and fixes files
 ```
-npm run lint
+Open "localhost:8080"
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

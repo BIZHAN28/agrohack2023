@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "cytoscape": "^3.27.0",
+    "v-network-graph": "^0.9.13",
     "vue": "^3.2.13"
   },
   "devDependencies": {
